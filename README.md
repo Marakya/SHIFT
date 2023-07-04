@@ -35,25 +35,10 @@ ___
 
 ## Используемые технологии
 ___
-![AppVeyor](https://img.shields.io/badge/Python-3.10.6-green)
-![AppVeyor](https://img.shields.io/badge/FastAPI-0.96.0-9cf)
-![AppVeyor](https://img.shields.io/badge/Alembic-1.11.1-9cf)
-![AppVeyor](https://img.shields.io/badge/SQLAlchemy-2.0.15-9cf)
-![AppVeyor](https://img.shields.io/badge/pytest-7.3.1-9cf)
-![AppVeyor](https://img.shields.io/badge/uvicorn-0.22.0-9cf)
 
-
-![AppVeyor](https://img.shields.io/badge/Docker-24.0.2-green)
-![AppVeyor](https://img.shields.io/badge/docker--compose-1.29.2-9cf)
-
-![AppVeyor](https://img.shields.io/badge/Postgres-15.0-green)
-
-![AppVeyor](https://img.shields.io/badge/Poetry-1.5.1-green)
-
-## Модели
 ___
 
-![imageup.ru](https://imageup.ru/img68/4370057/my-first-board.jpg)
+
 
 ## Запуск
 ___
