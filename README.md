@@ -338,4 +338,4 @@ ___
      [7]: https://imageup.ru/img55/4370227/update_user_salary.png
      </details>
 
-Данный проект на GitHub: https://github.com/Timoha23/SHIFT_CFT
+
